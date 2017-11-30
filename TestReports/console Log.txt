@@ -1,0 +1,793 @@
+GET 
+http://webstandards.us.oracle.com:8989/compass/template-sample/otusa-home.html [HTTP/1.1 200 OK 1570ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/css/compass.css [HTTP/1.1 200 OK 2827ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/js/jquery.js [HTTP/1.1 200 OK 1769ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/js/compass.js [HTTP/1.1 200 OK 4067ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw55/cw55-fpo1.jpeg [HTTP/1.1 200 OK 7145ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw55/cw55-fpo2.jpeg [HTTP/1.1 200 OK 3108ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw55/cw55-fpo3.jpeg [HTTP/1.1 200 OK 3195ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw55/cw55-fpo4.jpeg [HTTP/1.1 200 OK 2173ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw55/cw55-fpo5.jpeg [HTTP/1.1 200 OK 3070ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw55/cw55-fpo6.jpeg [HTTP/1.1 200 OK 8646ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw26/cw26-fpo-01.jpg [HTTP/1.1 200 OK 7822ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw26/cw26-fpo-02.jpg [HTTP/1.1 200 OK 8154ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/images/cw26/cw26-fpo-03.jpg [HTTP/1.1 200 OK 8445ms]
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:22:190
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:22:202
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:25:198
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:28:5610
+Error in parsing value for 'display'.  Declaration dropped. compass.css:28:7140
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:31:491
+Unknown property 'webkit-box-shadow'.  Declaration dropped. compass.css:34:875
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:73:156
+Error in parsing value for 'background'.  Declaration dropped. compass.css:73:1201
+Error in parsing value for 'background'.  Declaration dropped. compass.css:73:1324
+Error in parsing value for 'background'.  Declaration dropped. compass.css:73:1402
+Error in parsing value for 'background'.  Declaration dropped. compass.css:73:1475
+Unknown property 'columns'.  Declaration dropped. compass.css:76:3263
+Expected end of value but found '?'.  Error in parsing value for 'width'.  Declaration dropped. compass.css:76:3494
+Expected end of value but found '?'.  Error in parsing value for 'float'.  Declaration dropped. compass.css:76:3508
+Unknown property 'columns'.  Declaration dropped. compass.css:76:4247
+Expected end of value but found '?'.  Error in parsing value for 'width'.  Declaration dropped. compass.css:76:4279
+Unknown property 'columns'.  Declaration dropped. compass.css:76:4828
+Expected end of value but found '?'.  Error in parsing value for 'width'.  Declaration dropped. compass.css:76:4930
+Unknown property 'columns'.  Declaration dropped. compass.css:97:1265
+Unknown property 'column-gap'.  Declaration dropped. compass.css:97:1321
+Unknown property 'columns'.  Declaration dropped. compass.css:97:1938
+Unknown property 'column-gap'.  Declaration dropped. compass.css:97:1993
+Unknown property 'columns'.  Declaration dropped. compass.css:97:2254
+Unknown property 'column-gap'.  Declaration dropped. compass.css:97:2309
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:100:59
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:100:562
+Found invalid value for media feature. compass.css:100:3766
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:603
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:976
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:1091
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:103:1180
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:1301
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:1517
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:1575
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:1748
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:103:2955
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:106:1844
+Error in parsing value for 'background'.  Declaration dropped. compass.css:106:2016
+Error in parsing value for 'background'.  Declaration dropped. compass.css:106:2124
+Error in parsing value for 'background'.  Declaration dropped. compass.css:106:2187
+Error in parsing value for 'background'.  Declaration dropped. compass.css:106:2245
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:106:3058
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:109:731
+Error in parsing value for 'background'.  Declaration dropped. compass.css:109:1597
+Error in parsing value for 'background'.  Declaration dropped. compass.css:109:1736
+Error in parsing value for 'background'.  Declaration dropped. compass.css:109:1830
+Error in parsing value for 'background'.  Declaration dropped. compass.css:109:1919
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:109:2097
+Unknown property 'user-select'.  Declaration dropped. compass.css:109:2435
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:109:2819
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:115:318
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:115:653
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:115:951
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:115:1049
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:1386
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:1494
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:1557
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:1615
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:115:1731
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:2388
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:2522
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:2598
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:2669
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:115:2811
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:3064
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:3175
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:3241
+Error in parsing value for 'background'.  Declaration dropped. compass.css:115:3302
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:115:3424
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:124:1859
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:127:1511
+Error in parsing value for 'background'.  Declaration dropped. compass.css:130:237
+Error in parsing value for 'background'.  Declaration dropped. compass.css:130:380
+Error in parsing value for 'background'.  Declaration dropped. compass.css:130:465
+Error in parsing value for 'background'.  Declaration dropped. compass.css:130:545
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:130:705
+Unknown property 'webkit-box-shadow'.  Declaration dropped. compass.css:133:290
+Expected end of value but found '0'.  Error in parsing value for 'margin-top'.  Declaration dropped. compass.css:136:296
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:139:1115
+Expected declaration but found '*'.  Skipped to next declaration. compass.css:139:1330
+Error in parsing value for 'color'.  Declaration dropped. compass.css:142:654
+Error in parsing value for 'color'.  Declaration dropped. compass.css:142:1014
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass.css:142:1229
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass.css:142:1289
+Error in parsing value for 'background'.  Declaration dropped. compass.css:148:4639
+Error in parsing value for 'background'.  Declaration dropped. compass.css:148:4762
+Error in parsing value for 'background'.  Declaration dropped. compass.css:148:4840
+Error in parsing value for 'background'.  Declaration dropped. compass.css:148:4913
+Expected 'none', URL, or filter function but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:148:6727
+Unknown property '-moz-opacity'.  Declaration dropped. compass.css:148:6773
+Expected 'none', URL, or filter function but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:148:9451
+Expected 'none', URL, or filter function but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:148:9575
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:148:13572
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:148:13972
+Error in parsing value for 'min-height'.  Declaration dropped. compass.css:148:14458
+Found invalid value for media feature. compass.css:154:2291
+Error in parsing value for 'opacity'.  Declaration dropped. compass.css:154:2368
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2376
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2478
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2549
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2627
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2723
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2829
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:2929
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:4703
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:4778
+Unknown pseudo-class or pseudo-element '-moz-math-stretchy'.  Ruleset ignored due to bad selector. compass.css:154:4875
+Expected media feature name but found '-ms-high-contrast'. compass.css:157:7509
+Expected media feature name but found '-ms-high-contrast'. compass.css:157:7538
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:157:8055
+Unknown property 'user-select'.  Declaration dropped. compass.css:160:2059
+Error in parsing value for 'background'.  Declaration dropped. compass.css:160:4754
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:160:4880
+Error in parsing value for '-moz-transition-delay'.  Declaration dropped. compass.css:160:5611
+Error in parsing value for 'transition-delay'.  Declaration dropped. compass.css:160:5652
+Error in parsing value for '-moz-transition-delay'.  Declaration dropped. compass.css:160:6144
+Error in parsing value for 'transition-delay'.  Declaration dropped. compass.css:160:6185
+Error in parsing value for '-moz-transition-delay'.  Declaration dropped. compass.css:160:6603
+Error in parsing value for 'transition-delay'.  Declaration dropped. compass.css:160:6644
+Error in parsing value for '-moz-transition-delay'.  Declaration dropped. compass.css:160:7386
+Error in parsing value for 'transition-delay'.  Declaration dropped. compass.css:160:7427
+Expected media feature name but found '-ms-high-contrast'. compass.css:163:7445
+Expected media feature name but found '-ms-high-contrast'. compass.css:163:7474
+Expected end of value but found '\9 '.  Error in parsing value for 'display'.  Declaration dropped. compass.css:163:7556
+Unknown property '-moz-border-radius-topleft'.  Declaration dropped. compass.css:166:508
+Unknown property '-moz-border-radius-topright'.  Declaration dropped. compass.css:166:540
+Unknown property '-moz-border-radius-bottomleft'.  Declaration dropped. compass.css:166:940
+Unknown property '-moz-border-radius-bottomright'.  Declaration dropped. compass.css:166:975
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:166:1118
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:166:3142
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:166:3256
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:166:3409
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:166:3554
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:166:6495
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:166:6603
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:166:7887
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:166:7989
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:213
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:321
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:384
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:442
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:178:558
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:178:739
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:2353
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:2535
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:2659
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:2778
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:178:3016
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:178:3350
+Unknown property 'zoom'.  Declaration dropped. compass.css:178:3853
+Expected 'none', URL, or filter function but found 'Alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:178:3943
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:178:4342
+Unknown property 'zoom'.  Declaration dropped. compass.css:178:4684
+Unknown property 'zoom'.  Declaration dropped. compass.css:178:4893
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass.css:178:5149
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector. compass.css:178:5207
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass.css:178:5325
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass.css:178:5443
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:6285
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:6392
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:6454
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:6511
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:178:6625
+Unknown property '-moz-outline'.  Declaration dropped. compass.css:178:7030
+Unknown property '-moz-outline'.  Declaration dropped. compass.css:178:7562
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:178:10441
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:10680
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:10788
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:10851
+Error in parsing value for 'background'.  Declaration dropped. compass.css:178:10909
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:178:11025
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:178:11199
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:517
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:628
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:694
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:755
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:181:877
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:1510
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:1621
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:1687
+Error in parsing value for 'background'.  Declaration dropped. compass.css:181:1748
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:181:1870
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:184:293
+Error in parsing value for 'background'.  Declaration dropped. compass.css:184:3134
+Error in parsing value for 'background'.  Declaration dropped. compass.css:184:3316
+Error in parsing value for 'background'.  Declaration dropped. compass.css:184:3440
+Error in parsing value for 'background'.  Declaration dropped. compass.css:184:3559
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:184:3797
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:184:4131
+Unknown property 'zoom'.  Declaration dropped. compass.css:184:4634
+Expected 'none', URL, or filter function but found 'Alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:184:4724
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:184:5125
+Unknown property 'zoom'.  Declaration dropped. compass.css:184:5481
+Unknown property 'zoom'.  Declaration dropped. compass.css:184:5690
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass.css:184:5945
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector. compass.css:184:6004
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass.css:184:6123
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass.css:184:6242
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:184:6514
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:184:6616
+Expected color but found 'none'.  Error in parsing value for 'background-color'.  Declaration dropped. compass.css:187:4997
+Error in parsing value for 'background'.  Declaration dropped. compass.css:187:5305
+Error in parsing value for 'background'.  Declaration dropped. compass.css:187:5439
+Error in parsing value for 'background'.  Declaration dropped. compass.css:187:5515
+Error in parsing value for 'background'.  Declaration dropped. compass.css:187:5586
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:187:5728
+Expected color but found 'none'.  Error in parsing value for 'background-color'.  Declaration dropped. compass.css:187:6173
+Unknown property 'zoom'.  Declaration dropped. compass.css:187:10674
+Unknown property 'zoom'.  Declaration dropped. compass.css:187:10713
+Unknown pseudo-class or pseudo-element '-ms-clear'.  Ruleset ignored due to bad selector. compass.css:199:1609
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:199:2628
+Unknown pseudo-class or pseudo-element '-ms-clear'.  Ruleset ignored due to bad selector. compass.css:202:1390
+Unknown property 'zoom'.  Declaration dropped. compass.css:202:4902
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:202:5132
+Unknown property 'zoom'.  Declaration dropped. compass.css:202:8353
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:202:19318
+Error in parsing value for 'word-break'.  Declaration dropped. compass.css:205:527
+Error in parsing value for 'display'.  Declaration dropped. compass.css:205:2796
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:214:3445
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:214:4175
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:214:4506
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:214:5090
+Error in parsing value for 'padding-left'.  Declaration dropped. compass.css:214:5169
+Unknown property 'zoom'.  Declaration dropped. compass.css:214:5176
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:214:5186
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:214:5679
+Unknown pseudo-class or pseudo-element '-webkit-autofill'.  Ruleset ignored due to bad selector. compass.css:214:5773
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:226:114
+Error in parsing value for 'background'.  Declaration dropped. compass.css:226:348
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:226:474
+Error in parsing value for 'background'.  Declaration dropped. compass.css:226:692
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:226:818
+Error in parsing value for 'background'.  Declaration dropped. compass.css:259:141
+Error in parsing value for 'background'.  Declaration dropped. compass.css:259:275
+Error in parsing value for 'background'.  Declaration dropped. compass.css:259:351
+Error in parsing value for 'background'.  Declaration dropped. compass.css:259:422
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:259:564
+Error in parsing value for 'background'.  Declaration dropped. compass.css:262:669
+Error in parsing value for 'background'.  Declaration dropped. compass.css:262:776
+Error in parsing value for 'background'.  Declaration dropped. compass.css:262:838
+Error in parsing value for 'background'.  Declaration dropped. compass.css:262:895
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass.css:262:1009
+Error in parsing value for 'background'.  Declaration dropped. compass.css:265:178
+Unknown property '-moz-border-radius'.  Declaration dropped. compass.css:265:1092
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass.css:265:1182
+Unknown property 'speak'.  Declaration dropped. compass.css:265:1877
+Unknown property 'font-smoothing'.  Declaration dropped. compass.css:265:2023
+Unknown property '-moz-osx-font-smoothing'.  Declaration dropped. compass.css:265:2059
+GET 
+http://webstandards.us.oracle.com:8989/assets/css/compass-base-styles.css [HTTP/1.1 200 OK 3787ms]
+Unknown property '-moz-osx-font-smoothing'.  Declaration dropped. compass-base-styles.css:19:95
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:19:2234
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:2551
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:2658
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:2720
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:2777
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:19:2891
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:4281
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:4389
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:4452
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:19:4510
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:19:4626
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:19:4734
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:19:7160
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass-base-styles.css:22:1494
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:22:1542
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector. compass-base-styles.css:22:1604
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-button'.  Ruleset ignored due to bad selector. compass-base-styles.css:22:1666
+Expected color but found 'transparent\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:22:6269
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:22:6317
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:22:6411
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass-base-styles.css:22:8721
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass-base-styles.css:22:9295
+Unknown property '-moz-outline'.  Declaration dropped. compass-base-styles.css:25:198
+Unknown property '-moz-outline'.  Declaration dropped. compass-base-styles.css:25:2400
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:28:192
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:28:445
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:583
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:690
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:752
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:809
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:28:1224
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:28:2157
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:3549
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:3656
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:3718
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:28:3775
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:28:4501
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:28:4875
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:28:5041
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:31:101
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:31:227
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:31:379
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:31:509
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:31:635
+Unknown property 'speak'.  Declaration dropped. compass-base-styles.css:34:475
+Unknown property '-moz-osx-font-smoothing'.  Declaration dropped. compass-base-styles.css:34:630
+Unknown property '-moz-osx-font-smoothing'.  Declaration dropped. compass-base-styles.css:34:10539
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:37:336
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:37:488
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:46:2419
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:46:3163
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:682
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:49:2232
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:49:2339
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:49:2401
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:49:2458
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:11334
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:32779
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:34751
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:49:35172
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:49:35394
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass-base-styles.css:49:35646
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector. compass-base-styles.css:49:35704
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:49:35800
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:49:35869
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:37820
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:39436
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:39683
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:49:53904
+Expected end of selector or a user action pseudo-class after pseudo-element but found ':'.  Ruleset ignored due to bad selector. compass-base-styles.css:49:55174
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:341
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:374
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:677
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:782
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:842
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:897
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:1007
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:1403
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:1419
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:1930
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:2295
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:2323
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:2338
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:2483
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:2499
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:52:2694
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:52:2798
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:2962
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:3116
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:3199
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:3277
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:3433
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:3541
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:3558
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:3694
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:3848
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:3931
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:4009
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:4165
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:4273
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:4290
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:52:4531
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:5328
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:5439
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:5505
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:5566
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:5688
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:52:6392
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:6641
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:6752
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:6818
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:6879
+Expected color but found 'top'.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:6957
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:6995
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:52:8306
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:8653
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:9305
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:9848
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:52:9860
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:11185
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:11367
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:11491
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:11610
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:11848
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:52:12182
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:52:12685
+Expected 'none', URL, or filter function but found 'Alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:12775
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:52:13174
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:52:13526
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:52:13733
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass-base-styles.css:52:13985
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector. compass-base-styles.css:52:14043
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:52:14161
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:52:14279
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:15263
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:15370
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:15432
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:15489
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:52:15603
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:52:15726
+Unknown property '-moz-outline'.  Declaration dropped. compass-base-styles.css:52:16215
+Unknown property '-moz-outline'.  Declaration dropped. compass-base-styles.css:52:16314
+Expected color but found '#transparent'.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:52:17234
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:291
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:398
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:460
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:517
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:3068
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:3175
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:3237
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:3294
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:55:3879
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:55:4012
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:55:5153
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:55:5734
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:5941
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:6129
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:6233
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:6332
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:55:6530
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:6976
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:7158
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:7256
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:55:7349
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:55:7535
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:1775
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:1959
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:2059
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:2154
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:58:2344
+Unknown property 'moz-box-sizing'.  Declaration dropped. compass-base-styles.css:58:2544
+Unknown property 'webkit-box-sizing'.  Declaration dropped. compass-base-styles.css:58:2573
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:2890
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:3138
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:3302
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:3461
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:58:3779
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:58:3895
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:4251
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:4388
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:4467
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:58:4541
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:58:4689
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:61:735
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:61:872
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:528
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:639
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:705
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:766
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:64:888
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:64:1010
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:64:1799
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:1949
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:2057
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:2120
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:2178
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:64:2294
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:64:2645
+Expected color but found '#e8e8e8\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:2898
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:2998
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:3106
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:3169
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:3227
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:64:3343
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:64:3712
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:4427
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:4538
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:4604
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:4665
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:64:4787
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:5754
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:5861
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:5923
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:64:5980
+Unknown property '-moz-outline'.  Declaration dropped. compass-base-styles.css:67:1846
+Error in parsing value for 'visibility'.  Declaration dropped. compass-base-styles.css:67:3435
+Error in parsing value for 'left'.  Declaration dropped. compass-base-styles.css:70:509
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:70:1384
+Expected end of value but found '1px\9 '.  Error in parsing value for 'border'.  Declaration dropped. compass-base-styles.css:70:1493
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:76:447
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:648
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:837
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:942
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:1042
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:1242
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:1704
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:1968
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:2157
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:2262
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:2362
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:2562
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:2924
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3097
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3202
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3262
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3317
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:3427
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3715
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3820
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3880
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:3935
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:4823
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:4934
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:5000
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:5061
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:5183
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:7073
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:7200
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:7382
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:7508
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:7589
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:7665
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:7817
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:8180
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:8343
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:8469
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:8550
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:8626
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:8778
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:9259
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:9404
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:9671
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:9860
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:9965
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:10065
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:11670
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:11828
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:11933
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:11993
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:12048
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:12158
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:12456
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:12574
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:12650
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:12721
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:13132
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:13250
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:13326
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:13397
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:14268
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:79:19171
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:19334
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:19460
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:19541
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:79:19617
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:79:19769
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:82:703
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:82:909
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:85:561
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:701
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:827
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:898
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:964
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:85:1094
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:85:1567
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:1826
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:1929
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:1990
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:2046
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:85:2156
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:5858
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:5969
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:6035
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:6096
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:85:6708
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:6838
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:6941
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:7002
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:85:7058
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:85:7168
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:9442
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:9562
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:9637
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:9707
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:10763
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:10926
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:11018
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:11105
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:11279
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:11536
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:11725
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:11830
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:11930
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:12130
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:12400
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:12615
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:12733
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:12846
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:13072
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:13338
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:13549
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:13663
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:13772
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:13990
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:14234
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:14397
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:14489
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:14576
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:14750
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:14994
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:15157
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:15249
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:15336
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:15510
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:88:18918
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:21635
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:21849
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:88:24897
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:88:25023
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:91:3168
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:91:5457
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:91:6301
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:91:7080
+Unknown property 'loat'.  Declaration dropped. compass-base-styles.css:94:1113
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:1278
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:1385
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:1447
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:1504
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:94:1618
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:2199
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:2317
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:2393
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:2464
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:94:2604
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:2991
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:3109
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:3185
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:94:3256
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:94:3396
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:97:321
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:97:324
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:100:520
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:100:805
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:100:993
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:100:1176
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:100:1542
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:100:6267
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:454
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:586
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:660
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:729
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:103:2027
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:103:2042
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:103:2184
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:4776
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:4887
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:4953
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:5014
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:103:5136
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:103:5705
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:5876
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:5987
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:6053
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:6114
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:103:6236
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:6446
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:6554
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:6617
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:6675
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:103:6791
+Expected part of argument to pseudo-class but found 'n2'.  Ruleset ignored due to bad selector. compass-base-styles.css:103:7891
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:8340
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:8472
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:8546
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:103:8615
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:106:696
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:112:265
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:112:369
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:112:428
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:112:482
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:112:590
+Expected color but found '\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:115:1459
+Expected color but found '\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:115:1562
+Expected color but found '\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:115:1657
+Expected color but found '\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:115:1759
+Expected color but found '\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:115:1863
+Expected color but found '\9 '.  Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:115:1968
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:115:4698
+Expected 'none', URL, or filter function but found 'Alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:115:4796
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:115:5192
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:115:5541
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:115:5757
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar'.  Ruleset ignored due to bad selector. compass-base-styles.css:115:5994
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-button'.  Ruleset ignored due to bad selector. compass-base-styles.css:115:6049
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-button'.  Ruleset ignored due to bad selector. compass-base-styles.css:115:6169
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-track'.  Ruleset ignored due to bad selector. compass-base-styles.css:115:6292
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:115:6358
+Unknown pseudo-class or pseudo-element '-webkit-scrollbar-thumb'.  Ruleset ignored due to bad selector. compass-base-styles.css:115:6424
+Unknown property 'font-siee'.  Declaration dropped. compass-base-styles.css:118:2274
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:121:333
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:121:444
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:121:510
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:121:571
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:121:693
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:124:265
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:127:1321
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:127:1456
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:127:1546
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:127:1631
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:127:1801
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:9895
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:10120
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:10235
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:127:10324
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:10491
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:10863
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:10921
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:11029
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:11057
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:11197
+Expected declaration but found '*'.  Skipped to next declaration. compass-base-styles.css:127:12246
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:130:474
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:130:598
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:130:677
+Error in parsing value for 'background'.  Declaration dropped. compass-base-styles.css:130:751
+Expected 'none', URL, or filter function but found 'progid'.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:130:899
+Unknown property '-moz-box-shadow'.  Declaration dropped. compass-base-styles.css:130:2107
+Error in parsing value for '-moz-perspective'.  Declaration dropped. compass-base-styles.css:130:2684
+Error in parsing value for 'perspective'.  Declaration dropped. compass-base-styles.css:130:2722
+Expected 'none', URL, or filter function but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped. compass-base-styles.css:130:5104
+Expected end of value but found '0'.  Error in parsing value for 'padding-right'.  Declaration dropped. compass-base-styles.css:130:6397
+Unknown property 'user-select'.  Declaration dropped. compass-base-styles.css:139:866
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:139:1635
+Unknown property 'zoom'.  Declaration dropped. compass-base-styles.css:139:2240
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:139:2405
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:139:3001
+Unknown property '-moz-border-radius'.  Declaration dropped. compass-base-styles.css:142:631
+Error in parsing value for 'background-image'.  Declaration dropped. otusa-home.html
+Error in parsing value for 'background-image'.  Declaration dropped. otusa-home.html
+Error in parsing value for 'background-image'.  Declaration dropped. otusa-home.html
+Error in parsing value for 'background-image'.  Declaration dropped. otusa-home.html
+Expected media feature name but found 'touch-enabled'. otusa-home.html:1:8
+Expected media feature name but found '-webkit-touch-enabled'. otusa-home.html:1:24
+Expected media feature name but found '-o-touch-enabled'. otusa-home.html:1:69
+Expected media feature name but found '-ms-touch-enabled'. otusa-home.html:1:88
+Expected media feature name but found 'heartz'. otusa-home.html:1:108
+testing compass.js:287:16946
+GET 
+XHR 
+http://api.demandbase.com/api/v2/ip.json [HTTP/1.1 200 OK 292ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/css/oracle-video.css [HTTP/1.1 200 OK 558ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/u01-u06-f01-min-sprite.png [HTTP/1.1 200 OK 582ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/u03-chevron.png [HTTP/1.1 200 OK 325ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/facebook.svg [HTTP/1.1 200 OK 325ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/twitter.svg [HTTP/1.1 200 OK 327ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/linkedin.svg [HTTP/1.1 200 OK 577ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/cw26-sprite-white.png [HTTP/1.1 200 OK 880ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/fonts/oracleicons.woff2 [HTTP/1.1 200 OK 673ms]
+GET 
+XHR 
+https://edge.api.brightcove.com/playback/v1/accounts/1460825906/videos/5276042718001 [HTTP/1.0 200 Connection established 282ms]
+GET 
+XHR 
+https://edge.api.brightcove.com/playback/v1/accounts/1460825906/videos/5276026275001 [HTTP/1.1 200 OK 195ms]
+GET 
+XHR 
+http://webstandards.us.oracle.com:8989/compass/template-sample/menucontent.html [HTTP/1.1 200 OK 1334ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/i/loading-sprite.png [HTTP/1.1 200 OK 612ms]
+GET 
+http://webstandards.us.oracle.com:8989/assets/css/oracle-video.css [HTTP/1.1 200 OK 0ms]
+GET 
+XHR 
+https://oracle-a.akamaihd.net/aug2014/1460825906/201702/3877/1460825906_5315935383001_5276042718001.mp4 [HTTP/1.0 200 Connection established 13228ms]
+GET 
+XHR 
+https://oracle-a.akamaihd.net/aug2014/1460825906/201702/2419/1460825906_5315932448001_5276026275001.mp4 [HTTP/1.0 200 Connection established 14321ms]
